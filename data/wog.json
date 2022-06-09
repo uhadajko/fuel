@@ -1,0 +1,31 @@
+{"data":
+  {"link":"https://api.wog.ua/fuel_stations/1104",
+    "city":"Івано-Франківськ",
+    "coordinates":
+    {"longitude":24.687516,"latitude":48.902734},
+    "workDescription":"АЗК працює згідно графіку.\n
+                      М95 - Пальне відсутнє.\n
+                      А95 - тільки спецтранспорт.\n
+                      А92 - Пальне відсутнє.\n
+                      ДП - Готівка, банк.картки 20л. Гаманець ПРАЙД до 100л. Талони до 40л. Паливна картка (ліміт картки).\n
+                      МДП+ - Пальне відсутнє.\n
+                      ГАЗ - тільки спецтранспорт.\n",
+    "fuels":[{"cla":"#5d71b1","brand":"Євро5","name":"ДП","id":9},
+              {"cla":"#cf5c72","brand":"Mustang+","name":"ДП","id":6},
+              {"cla":"#5d71b1","brand":"Євро5","name":"92","id":8},
+              {"cla":"#5d71b1","brand":"Євро5","name":"95","id":2},
+              {"cla":"#cf5c72","brand":"Mustang","name":"95","id":5},
+              {"cla":"#4484ff","name":"ГАЗ","id":11}],
+    "services":[{"icon":"vilka","name":"Розетка","id":1},
+              {"icon":"wogpride","name":"WOG Pride","id":2},
+              {"icon":"tirefitting","name":"Підкачка шин","id":4},
+              {"icon":"parking","name":"Паркінг","id":5},
+              {"icon":"wc","name":"Туалет","id":6},
+              {"icon":"wifi","name":"WI-FI","id":7},
+              {"icon":"wogcafe","name":"WOG Cafe","id":8},
+              {"icon":"wogmarket","name":"WOG Market","id":9},
+              {"icon":"baby","name":"Пеленальні столики","id":11},
+              {"icon":"ibox","name":"IBox","id":13}],
+    "schedule":[{"day":"Сьогодні","interval":"05:00 - 23:00"}],
+    "name":"м. Івано-Франківськ, вул. Довженка,21а",
+    "id":1104}}
